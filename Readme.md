@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Wpf_MapControl_PieChartDataAdapter/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_PieChartDataAdapter/MainWindow.xaml))
+<!-- default file list end -->
 # Customize appearance of generated pie chart items
 
 
